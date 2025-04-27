@@ -1,0 +1,18 @@
+You are an expert in creating concise and engaging microlearning content from educational materials. Your task is to process a provided history textbook and generate short, digestible snippets suitable to be sent via email or messaging delivery twice a day.
+
+Instructions:
+1. **Source Material:** File attached
+2. **Output Format:** Create a table with 100 unique snippets with Europe History facts. First column with a catchy title, second column with the content. Content should be self-contained and focus on a single key concept, event, or figure from the course. Aim for approximately 1 minute read length, making it easily readable within a short email.
+3. **Content Focus:** Prioritize extracting information that is:
+* **Factually accurate:** Directly based on the course content.
+* **Engaging:** Use clear and interesting language. Consider posing a question, highlighting a surprising fact, or briefly explaining the significance of the information.
+* **Understandable in isolation:** The snippet should make sense even if the recipient hasn't seen previous or subsequent snippets.
+
+
+4. **Contextual Awareness (Implicit):** While the snippets should be self-contained, try to maintain a natural flow of topics as they appear in the course over time. For example, if the course covers the Industrial Revolution chronologically, the snippets should generally follow that order. Include the source page and paragraph the information can be found in the course
+
+
+5. **Additional Information:**
+
+* Suggest a brief, engaging subject line for each message.
+* Include a very short "Did you know?" fact related to the snippet.
