@@ -5,7 +5,7 @@ Sends timely micro-lessons via email and Whatsapp for on the go study. Originall
 - Micro learnings were pre-processed into a Google sheets (previous version would create lessons each run, but it had higher repetition, and costed more tokens)
 - It picks a micro-lesson from a Google Sheet at a time
 - Creates narration and stores in a drive
-- Sends out Whatsapp message and email copy
+- Sends out Whatsapp message and email copy at scheduled time
 
 Requires
 - Make.com account
