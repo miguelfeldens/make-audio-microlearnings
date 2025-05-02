@@ -9,15 +9,14 @@ Sends timely micro-lessons via email and Whatsapp for on the go study. Originall
 
 Requires
 - Make.com account
-- Elevenlabs API
-- Whatsable
-- Google Drive
-- GMail account
+- Elevenlabs API Key
+- Whatsable API Key
+- Google Drive & Gmail
 
 Instruction
-- Create a Google sheet with 3 columnes (title, lesson, status)
-- Lessons were populated using the following prompt.txt in this repo directly in Gemini (or other), and uploading the PDF of the book to be used
 - Import the JSON blueprint in Make.com
-- Configure connections and APIs
-- Configure drive, Whatsapp component
-
+- Create a Google sheet with 3 columnes (title, lesson, status)
+- Store source training material in Drive
+- Configure connections and APIs in Make
+- Configure drive, Whatsapp component in Make
+- Use the prompt in the file prompt.txt in this repo directly in Gemini (or other), and uploading the PDF of the book to be used
